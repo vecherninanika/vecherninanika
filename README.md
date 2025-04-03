@@ -1,7 +1,7 @@
-<p><samp>Hello, my name is Veronika!</samp></p>
+<p><samp>Всем привет, меня зовут Вероника!</samp></p>
 <p><samp>Учусь в IT-колледже Сириус по направлению "Информационные системы и программирование"</samp></p>
 
-### Languages
+### Языки
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -10,21 +10,18 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 
-### Technologies
+### Технологии
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
 
-### Full Stack Projects
+### Проекты
 
-[![](https://img.shields.io/badge/-🖥️%20Mem%20Bot-000)](https://github.com/blinmakersha/fastapi-mem-bot)
-[![](https://img.shields.io/badge/-🧬%20Beauty%20Salon-000)](https://github.com/blinmakersha/beauty_salon)
-[![](https://img.shields.io/badge/-🎭%20Mask%20App-000)](https://github.com/blinmakersha/mask-swift-app)
-[![](https://img.shields.io/badge/-🔊%20Movie%20Store-000)](https://github.com/blinmakersha/movie-store)
+[![](https://img.shields.io/badge/-📖%20Study%20Spanish%20--%20Flask-000)](https://github.com/vecherninanika/Hispanist_Flask)
+[![](https://img.shields.io/badge/-🍕%20Find%20recipes%20--%20FastAPI-000)](https://github.com/vecherninanika/sirius_december)
+[![](https://img.shields.io/badge/-🏫%20University%20website%20--%20Django-000)](https://github.com/vecherninanika/django_university)
+[![](https://img.shields.io/badge/-📱%20Language%20app%20--%20Kotlin-000)](https://github.com/vecherninanika/kotlin_language_app)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blinmakersha&theme=dracula" alt="blinmakersha" />
